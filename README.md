@@ -8,7 +8,7 @@ It is advised to first create a virutal environment and then only use this code.
 
 To run this code:
 1) Create Python virtual environment, name it as you wish.
-2) Create Django project named 'backend'
+2) Create Django project named 'backend' in the same place where your virtual environment directory exists.
 3) Create Django app inside 'backend', named 'base'
 4) Replace/Add files in Django 'backend' and 'base' folders with the files that are provided here.
 
