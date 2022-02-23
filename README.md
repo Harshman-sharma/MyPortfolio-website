@@ -12,7 +12,7 @@ To run this code:
 3) Create Django app inside 'backend', named 'base'
 4) Replace/Add files in Django 'backend' and 'base' folders with the files that are provided here.
 
-5) Run while keeping terminal in backend folder, run following commands : 
+5) Run while keeping terminal in backend folder, run following 2 commands separately : 
    $ python manage.py makemigrations
    $ python manage.py migrate
  
