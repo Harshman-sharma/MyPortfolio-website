@@ -1,0 +1,1 @@
+Create django app named "base" and add/replace the files in base folder with the files given here.
