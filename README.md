@@ -2,6 +2,25 @@
 
 A react js + Django project to showcase my cv.
 
+![image](https://user-images.githubusercontent.com/44753624/171933005-429036d5-9170-4cab-92c4-c2cfe0303bad.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933439-831cc53a-aad8-404f-92eb-36ae7dbd807b.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933603-93a87c66-6a44-406f-9c8a-0b3cf875c2c9.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933658-fdda14ae-594d-4629-8840-79570ab8e869.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933760-0a9b10da-6473-441e-9548-edd0fe5a490d.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933216-7ab5593f-4a31-4db4-9c57-9cfacaa4e962.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933341-366b6493-6c99-4c61-8461-f19082a7cc95.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933383-0e00c51e-8f86-4e3e-b4fa-f689618f3c83.png)
+
+![image](https://user-images.githubusercontent.com/44753624/171933511-9b6f481c-1868-4940-a705-eb51110e6afa.png)
+
+
 Here, other than backend and frontend, a python environment folder named "bkend" was also supposed to be there, but I haven't uploaded it because its size is huge. Morever it only consists of django setup files, which otherwise could be installed by pip command in terminal.
 
 It is advised to first create a virutal environment and then only use this code.
